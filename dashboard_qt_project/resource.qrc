@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/images">
+    <file>images/background.png</file>
+    <file>images/50.png</file>
+    <file>images/70.png</file>
+    <file>images/car.png</file>
+    <file>images/solsinyal.png</file>
+    <file>images/sagsinyal.png</file>
+    <file>images/hizsabit.png</file>
+</qresource>
+</RCC>
